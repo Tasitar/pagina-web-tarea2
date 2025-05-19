@@ -93,7 +93,7 @@ html,.sobre-mi{
   margin: 0;
 }
 .body-sobre-mi{
-  background-image:url("assets\imagenes-sobre-mi\vocaloid-cute.webp");
+  background-image:url("../imagenes/imagenes-sobre-mi/vocaloid-cute.webp");
   background-size: cover;
   background-attachment: fixed;
   background-color: rgb(23, 143, 143);
@@ -179,7 +179,7 @@ html,.proyecto{
 }
 
 .body-proyecto{
-  background-image:url("assets/imagenes-proyecto/fondo-proyecto.jpg");
+  background-image:url("../imagenes/imagenes-proyecto/fondo-proyecto.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
